@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>library</OutputType>
+
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+
+		<RootNamespace>college_interview_task_v4</RootNamespace>
+
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+</Project>
