@@ -11,7 +11,7 @@ Wymagane umiejętności by ukończyć zadanie:
 
 Dystrybucja:
 
-* wszystkie zadania należy umieścić w prywatnym repo kandydata i przesłać link w odpowiedzi na maila rekrutacyjnego
+* wszystkie zadania należy umieścić w publicznym repo kandydata i przesłać link w odpowiedzi na maila rekrutacyjnego
 
 Informacje dodatkowe:
 
@@ -49,8 +49,7 @@ W tym zadaniu należy przygotować, w dowolny sposób, krótką prezentację wyk
 
 **Uwaga:**
 
-1. demo powinno być przygotowane i wrzucone do nowego repozytorium GitHub kandydata
-   * kandydat wysyła link do swojego GitHub w celu weryfikacji poprawności wykonania zadania
+demo powinno być przygotowane i wrzucone do repozytorium GitHub kandydata
 
 ## Podsumowanie
 
